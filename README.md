@@ -1,6 +1,7 @@
 I make [stupid programs](https://github.com/greysoh/random-projects).  
 **Something here**: something else  
 **Discord**: username#tag, i forgot  
+**Current project**: [femcraft](https://github.com/greysoh/femcraft)
 
 My primary OS is [Arch Linux](https://archlinux.org).  
   
