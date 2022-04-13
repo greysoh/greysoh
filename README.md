@@ -1,5 +1,5 @@
 I make [stupid programs](https://github.com/greysoh/random-projects).  
-**Pronouns**: he/him 
+**Pronouns**: he/him  
 **Discord**: Femboy#6977
 **Current project**: [femcraft](https://github.com/greysoh/femcraft)
 
