@@ -1,6 +1,6 @@
 I make [stupid programs](https://github.com/greysoh/random-projects).  
-**Something here**: something else  
-**Discord**: username#tag, i forgot  
+**Pronouns**: he/him 
+**Discord**: Femboy#6977
 **Current project**: [femcraft](https://github.com/greysoh/femcraft)
 
 My primary OS is [Arch Linux](https://archlinux.org).  
