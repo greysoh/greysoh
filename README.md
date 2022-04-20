@@ -17,6 +17,6 @@ My primary OS is [Arch Linux](https://archlinux.org).
 * REDRAGON camera and microphone  
   
 Laptop (Thinkpad T490s) specs:
-* OS depends, currently using MX Linux XFCE
+* OS depends, currently using macOS Catalina (hackintoshed).  
 * 8GB of ram 
 * 256GB NVMe SSD
