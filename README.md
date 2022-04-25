@@ -5,6 +5,7 @@ I make [stupid programs](https://github.com/greysoh/random-projects).
 **Current project**: [femcraft](https://github.com/greysoh/femcraft)
 
 My primary OS is [Arch Linux](https://archlinux.org).  
+Monero wallet: `43m5EG6j2gcNo7HeRp4cm1NwLQBrRKPgfFp51dFiUAQE275KKfnLSvGK4b6yPRq7fi1553zpVUtxL3BwpxtsGPRiKVcgXAq`
   
 ¨Desktop" specs:
 * Arch Linux
