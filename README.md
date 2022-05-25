@@ -3,11 +3,8 @@ I make [stupid programs](https://github.com/greysoh/random-projects).
 **Pronouns**: he/him  
 **Current project**: [femcraft](https://github.com/greysoh/femcraft)
 
-My primary OS is [Arch Linux](https://archlinux.org).  
-Monero wallet: `43m5EG6j2gcNo7HeRp4cm1NwLQBrRKPgfFp51dFiUAQE275KKfnLSvGK4b6yPRq7fi1553zpVUtxL3BwpxtsGPRiKVcgXAq`
-  
 ¨Desktop" specs:
-* Arch Linux
+* Windows 10
 * 16GB of ram
 * NVidia GTX 1060 Mobile (3gb VRAM)
 * 256GB SATA SSD
@@ -17,6 +14,6 @@ Monero wallet: `43m5EG6j2gcNo7HeRp4cm1NwLQBrRKPgfFp51dFiUAQE275KKfnLSvGK4b6yPRq7
 * REDRAGON camera and microphone  
   
 Laptop (Thinkpad T490s) specs:
-* OS depends, currently using macOS Catalina (hackintoshed).  
+* Archcraft
 * 8GB of ram 
 * 256GB NVMe SSD
