@@ -1,7 +1,7 @@
 I make [stupid programs](https://github.com/greysoh/random-projects).  
   
 **Pronouns**: he/him  
-**Current project**: [femcraft](https://github.com/greysoh/femcraft)
+**Current project**: None
 
 ¨Desktop" specs:
 * Windows 10
