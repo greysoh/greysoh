@@ -1,7 +1,7 @@
 I make [stupid programs](https://github.com/greysoh/random-projects).  
   
 **Pronouns**: he/him  
-**Current project**: None
+**Current project**: [decksoda](https://github.com/decksoda)
 
 ¨Desktop" specs:
 * Windows 10
