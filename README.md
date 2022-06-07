@@ -1,12 +1,12 @@
 I make [stupid programs](https://github.com/greysoh/random-projects).  
   
 **Pronouns**: he/him  
-**Current project**: [decksoda](https://github.com/decksoda)
+**Current project**: [decksoda](https://github.com/decksoda), and hueten (private repo for now)
 
 ¨Desktop" specs:
 * Windows 10
 * 16GB of ram
-* NVidia GTX 1060 Mobile (3gb VRAM)
+* GTX 1060 Mobile w/ 3gb vram
 * 256GB SATA SSD
 * 1TB SATA Hard Drive
 * Using Roccat Pyro as the keyboard
@@ -14,6 +14,7 @@ I make [stupid programs](https://github.com/greysoh/random-projects).
 * REDRAGON camera and microphone  
   
 Laptop (Thinkpad T490s) specs:
-* Archcraft
+* Windows 11 Insider Preview (on NVMe SSD)
+* Arch Linux, KDE (on SD Card in laptop)
 * 8GB of ram 
 * 256GB NVMe SSD
