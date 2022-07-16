@@ -5,7 +5,7 @@ I make [stupid programs](https://github.com/greysoh/random-projects).
 
 Desktop specs:
 Windows 10 for testing, will be hackintoshed soon
-* 8GB of ram, will upgrade to 16GB or 32GB later
+* 16GB DDR3 1600MHz
 * RX 580 4gb
 * 128GB SATA SSD
 * 4TB SATA Hard Drivers
