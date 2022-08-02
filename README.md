@@ -7,8 +7,8 @@ Desktop specs:
 Windows 10 for testing, will be hackintoshed soon
 * 16GB DDR3 1600MHz
 * RX 580 4gb
-* 128GB SATA SSD
-* 4TB SATA Hard Drivers
+* 512GB SATA SSD
+* 2TB(2x1) SATA Hard Drivers
 * Using Roccat Pyro as the keyboard
 * Glorious Model O Wireless as the mouse
 * REDRAGON camera and microphone  
