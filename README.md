@@ -4,7 +4,7 @@ I make [stupid programs](https://github.com/greysoh/random-projects).
 **Current project(s)**: [decksoda](https://github.com/decksoda), and [hueten](https://github.com/greysoh/hueten)
 
 Desktop specs:
-* Arch Linux (for testing)
+* Windows 10
 * 16GB DDR3 1600MHz
 * RX 580 4gb
 * 512GB SATA SSD
