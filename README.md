@@ -13,7 +13,13 @@ Desktop specs:
 * Glorious Model O Wireless as the mouse
 * REDRAGON camera and microphone  
 
-Laptop (Thinkpad T490s) specs:
+Laptop (MacBook Air from 2015) specs:
+* macOS Monterey
+* 4GB of ram
+* 128GB SSD
+* Why am I even using this
+
+Secondary Laptop (Thinkpad T490s) specs:
 * Windows 11 Insider Preview (on NVMe SSD)
 * Arch Linux, KDE (on SD Card in laptop)
 * 8GB of ram 
