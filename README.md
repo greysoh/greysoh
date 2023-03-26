@@ -4,6 +4,7 @@ Desktop specs:
 * Windows 11
 * 16GB DDR4 3600MHz (3200MHz stock, has been overclocked)
 * RTX 3060 12GB
+* RX 580 4GB, taken from broken VR rig for hackintosh
 * 500GB Western Digital SN750 SE NVMe SSD
 * 512GB SAMSUNG SATA SSD
 * 1TB SATA Hard Drive
