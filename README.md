@@ -1,6 +1,4 @@
 I make stupid programs.  
-  
-**Pronouns**: he/him  
 
 Desktop specs:
 * Windows 11
