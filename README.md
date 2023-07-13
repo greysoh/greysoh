@@ -1,15 +1,13 @@
 I make stupid programs.  
 
 Desktop specs:
-* Windows 11
+* Windows 11 Pro
 * 16GB DDR4 3600MHz (3200MHz stock, has been overclocked)
 * RTX 3060 12GB
-* RX 580 4GB, taken from broken VR rig for hackintosh
-* 500GB Western Digital SN750 SE NVMe SSD
-* 512GB SAMSUNG SATA SSD
+* 2TB SAMSUNG 980 Pro NVMe SSD
+* 512GB SAMSUNG 960 SATA SSD
 * 1TB SATA Hard Drive
 * Using Roccat Pyro as the keyboard
-   - Roccat Elo for the headset
 * Glorious Model O Wireless as the mouse
 * REDRAGON camera
 
