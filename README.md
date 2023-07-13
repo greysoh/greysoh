@@ -2,7 +2,8 @@ I make stupid programs.
 
 Desktop specs:
 * Windows 11 Pro
-* 16GB DDR4 3600MHz (3200MHz stock, has been overclocked)
+* Ryzen 7 5700  
+* 64GB DDR4 4000MHz (3600MHz stock, has been overclocked)  
 * RTX 3060 12GB
 * 2TB SAMSUNG 980 Pro NVMe SSD
 * 512GB SAMSUNG 960 SATA SSD
