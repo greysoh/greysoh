@@ -12,12 +12,7 @@ Desktop specs:
 * Glorious Model O Wireless as the mouse
 * REDRAGON camera
 
-Laptop (Thinkpad T490s) specs:
-* Windows 10 (on NVMe SSD)
-* 8GB of ram 
-* 256GB NVMe SSD
-
-Early 2015 MacBook Air specs:
-* macOS Monterey
-* 4GB of ram
-* 128GB SSD
+Laptop (Early 2020 MacBook Pro) specs:
+* 16gb of 3733mhz ram
+* 500gb Apple NVMe SSD
+* i5-1038NG7
