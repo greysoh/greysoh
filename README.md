@@ -1,7 +1,7 @@
 I make stupid programs.  
 
 Desktop specs:
-* Arch Linux
+* NixOS
 * Ryzen 7 5700  
 * 64GB DDR4 4000MHz (3600MHz stock, has been overclocked)  
 * RTX 3060 12GB
